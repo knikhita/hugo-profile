@@ -102,7 +102,7 @@ params:
     intro: "Hi, my name is"
     title: "Nikhita."
     # subtitle: "I build things for the web"
-    content: "A passionate, mindful Web developer and Software Developer in Test with over 10 years of experience and expertise in Software Testing."
+    content: "A Mindful Techie, Shoshin Software Developer in Test and Advocate with over 10 years of experience in different Testing types."
     image: /images/hero.svg
     button:
       enable: true
@@ -112,7 +112,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/nikhitakale
+          url: https://github.com/knikhita
         - icon: fab fa-twitter
           url: https://twitter.com/KaleNikhita
       # customIcons:
@@ -133,11 +133,11 @@ params:
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "Blockchain"
-        - "CI/CD and Release mamangement"
-        - "Node and JavaScript"
-        - "Solidity"
-        - "Machine Learning and AI"
-        - "Cyber Security and Fuzzing"
+        - "CI/CD"
+        - "JavaScript,Python"
+        - "ETL"
+        - "ML and AI"
+        - "Cyber Security"
 
   # Experience
   experience:
