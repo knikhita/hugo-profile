@@ -102,12 +102,12 @@ params:
     intro: "Hi, my name is"
     title: "Nikhita."
     # subtitle: "I build things for the web"
-    content: "A Mindful Techie, Shoshin Software Developer in Test and Advocate with over 10 years of experience in different Testing types."
+    content: "A Mindful techie, shoshin Software Developer in Test and DevRel with over 10 years of experience in different Testing types."
     image: /images/hero.svg
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://read.cv/nikhitakale"
       download: true 
     socialLinks:
       fontAwesomeIcons:
@@ -152,57 +152,77 @@ params:
           enable: true
           name: "View the project"
           url: "https://www.biconomy.io/"
-        content: "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a Lead QA Engineer for more than one year in Biconomy
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      - job: "Lead Quality Assurance Engineer"
+        company: "Accion Labs"
+        companyUrl: "https://www.accionlabs.com/"
+        date: "Jan 2019 - May 2021"
+        featuredLink:
+          enable: true
+          url: "https://www.accionlabs.com/"
+        info:
+          enable: true
+          content: I worked as a Lead QA Engineer for more than two years, BA and Scrum Master for 6 months in Accion Labs.
+        content: |
+          
+          - Build the Test Automation team of 5 SDET & 30+ UAT testers across cross-functional projects.
+          - Bootstrapped the Production support team & ML testing using Airflow & tableau.
+          - Done ETL & Meta Data Testing.
+          - Introduced a framework for Proper Defect Tracking & release management from all sources.
+          - Streamlined the Release process with US clients with their in-house UAT team.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Lead SDET"
+        company: "HOUM"
+        companyUrl: "https://houm.me/houm"
+        date: "Aug 2018 - Jan 2019"
         info:
           enable: false
         featuredLink:
-          enable: true
-          url: "https://example.com"
+          enable: false
+          url: "https://houm.me/houm"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          HOUM helps to build a few billion digital homes on the internet, owned by the respective owner and accessed only by them.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Lead team of 2 SDETs.
+          - End to end Testing & Release management of product from 0 to 1 phase.
+          - Served as individual contributor of VM-Digital Home team as a Software Engineer in Test for security & Pen testing.
+          - Created a hybrid UI Automation framework from scratch which is used for cross-team UI Automation.
+          - Developed vertically scalable solutions for testing complex systems for different subscriptions of Digital home modules with CouchDB.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Senior SDET"
+        company: "Freight Tiger"
+        companyUrl: "https://www.freighttiger.com/"
+        date: "2017 - 2018"
+        featuredLink:
+          enable: false
+          url: "https://www.freighttiger.com/"
+        content: |
+          Freight Tiger helps to deliver freight on-time through end-to-end logistics visibility and a cloud based TMS, which together also power the largest Digital Freight Network in India.As a individual contributor, I was responsible for :
+
+          - Creating End to end automation framework for Android App.
+          - Creating GraphQL api framework & schema validator for third party Bulk APIs module.
+
+      - job: "Senior Application Test Engineer"
+        company: "Elara Technologies Group"
+        companyUrl: "https://www.proptiger.com/"
+        date: "2015 - 2017"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.freighttiger.com/"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          "Elara Technologies is India’s first full stack real estate services company at scale with its child companies : PropTiger, Housing.com, IREF, Makaan.com, Realestate.com.au, Realtor.com and its global partner Mansionglobal.com. "
+          As a senior frontend Test engineer in a team of 12 QAs across these child-companies,I was responsible for :
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Creating Test plan & Automation framework in rSpec with ruby on rails for backend testing of Location Filter module.
+          - Creating E2E testing framework in WebDriverIO for Web & Mobile Apps.
+          - Creating API Automation framework using Postman,Newman & Jenkins with Upstream and Downstream projects.
+          - Creating Email templates for marketing team along with designers in RoR and LWC modals.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
@@ -210,61 +230,61 @@ params:
     # title: "Custom Name"
     # index: true
     items:
-      - title: "Master of Business Administration"
+      - title: "Bachelor of Engineering in Computer Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
+          name: "University of Pune, India"
+          # url: "https://example.org"
         date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+        # GPA: "3.8 out of 5.0"
+        # content: |-
+        #   Extracurricular Activities
+        #     - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        #     - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      # - title: "Bachelor of Science in Computer Science"
+      #   school:
+      #     name: "Massachusetts Institute of Technology"
+      #     url: "https://example.org"
+      #   date: "2009 - 2013"
+      #   GPA: "3.9 out of 5.0"
+      #   content: |-
+      #     I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+      #     - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+      #     - Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+      #     Extracurricular Activities
+      #       - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      #       - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      #   featuredLink:
+      #     enable: true
+      #     name: "My academic record"
+      #     url: "https://example.com"
+      # - title: "High School"
+      #   school:
+      #     name: "Thomas Jefferson High School for Science and Technology."
+      #     url: "https://example.org"
+      #   GPA: "4.2 out of 5.0"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
 
   # Achievements
-  achievements:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+  # achievements:
+  #   enable: true
+  #   # title: "Custom Name"
+  #   items:
+  #     - title: Google kickstart runner
+  #       content: I solved all problems with optimal solution.
+  #       url: https://example.com
+  #     - title: Facebook Hackathon Winner
+  #       content: Developed a product using Artificial Intelligence.
+  #     - title: Hugo Profile
+  #       content: Developed a theme and getting 1K+ downloads per month.
+  #       url: "https://github.com/gurusabarish/hugo-profile"
+  #     - title: Microsoft Imagine Runner
+  #       content: We are developed a product which can help others.
+  #     - title: Google Summer of Code
+  #       content: Contributed to a open source project.
+  #       url: https://example.com
 
   # projects
   projects:
@@ -320,15 +340,14 @@ params:
   contact:
     enable: true
     #title: "Custom name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
-    btnName: Mail me
+    content: My inbox is always open. Whether you have a question or just want to say hi, you can either mail me OR book an 1-o-1 session!
+    email: nikhitamkale@gmail.com
+    btnName1: Mail Me
+    btnName2: Book Now
 
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/knikhita
+      linkedin: https://www.linkedin.com/in/nikhitakale/
+
