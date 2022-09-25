@@ -148,22 +148,17 @@ params:
         company: "Biconomy.io"
         companyUrl: "https://www.biconomy.io/"
         date: "May 2021 - Sep 2022"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://www.biconomy.io/"
         info:
           enable: true
           content: I worked as a Lead QA Engineer for more than one year in Biconomy
-        content: |
-        "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
+        # content: "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
 
       - job: "Lead Quality Assurance Engineer"
         company: "Accion Labs"
         companyUrl: "https://www.accionlabs.com/"
         date: "Jan 2019 - May 2021"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://www.accionlabs.com/"
         info:
           enable: true
@@ -215,7 +210,7 @@ params:
           enable: true
           url: "https://www.freighttiger.com/"
         content: |
-          "Elara Technologies is India’s first full stack real estate services company at scale with its child companies : PropTiger, Housing.com, IREF, Makaan.com, Realestate.com.au, Realtor.com and its global partner Mansionglobal.com. "
+          Elara Technologies is India’s first full stack real estate services company at scale with its child companies : PropTiger, Housing.com, IREF, Makaan.com, Realestate.com.au, Realtor.com and its global partner Mansionglobal.com.
           As a senior frontend Test engineer in a team of 12 QAs across these child-companies,I was responsible for :
 
           - Creating Test plan & Automation framework in rSpec with ruby on rails for backend testing of Location Filter module.
