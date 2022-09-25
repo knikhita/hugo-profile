@@ -125,9 +125,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer in test with a passion for web development and testing. I have a background in computer science and information, and I have a strong interest in the intersection of technology and art. I am currently working as a Lead QA in London, UK. 
+      I am a software developer in test with a passion for web development and testing. I have a background in computer science and information, and I have a strong interest in the intersection of technology and art. 
 
-      I am currently working on a blockchain project that will help people to get better understanding and use of crypto technology with better user interface.
+      I am currently working in a crypto-space that will help people to get better understanding and use of blockchain technology.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -151,7 +151,7 @@ params:
         info:
           enable: true
           content: I worked as a Lead QA Engineer for more than one year in Biconomy
-        # content: "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
+        content: "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
 
       - job: "Lead Quality Assurance Engineer"
         company: "Accion Labs"
@@ -208,7 +208,7 @@ params:
         date: "2015 - 2017"
         featuredLink:
           enable: true
-          url: "https://www.freighttiger.com/"
+          url: "https://housing.com/"
         content: |
           Elara Technologies is India’s first full stack real estate services company at scale with its child companies : PropTiger, Housing.com, IREF, Makaan.com, Realestate.com.au, Realtor.com and its global partner Mansionglobal.com.
           As a senior frontend Test engineer in a team of 12 QAs across these child-companies,I was responsible for :
