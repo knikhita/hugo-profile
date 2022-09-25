@@ -150,7 +150,7 @@ params:
         date: "May 2021 - Sep 2022"
         info:
           enable: true
-          content: I worked as a Lead QA Engineer for more than one year in Biconomy
+          content: I worked as a Lead QA Engineer for more than one year in Biconomy.
         content: "Biconomy is a Next-Gen Multi-chain Relayer Protocol for WEB3.0 space, providing Bridge for Layer 1  to Layer 2 and vice -versa transactions, staking of crypto tokens ,NFTs & Gasless solutions."
 
       - job: "Lead Quality Assurance Engineer"
@@ -164,7 +164,7 @@ params:
           enable: true
           content: I worked as a Lead QA Engineer for more than two years, BA and Scrum Master for 6 months in Accion Labs.
         content: |
-          
+          A cloud engineering company providing solutions & services across th globe.
           - Build the Test Automation team of 5 SDET & 30+ UAT testers across cross-functional projects.
           - Bootstrapped the Production support team & ML testing using Airflow & tableau.
           - Done ETL & Meta Data Testing.
@@ -206,6 +206,9 @@ params:
         company: "Elara Technologies Group"
         companyUrl: "https://www.proptiger.com/"
         date: "2015 - 2017"
+        info:
+          enable: true
+          content: I worked as a Senior Application Test Engineer for User facing interface for more than two years in Elara after merging with housing.com
         featuredLink:
           enable: true
           url: "https://housing.com/"
