@@ -11,17 +11,7 @@
                     {{ if .Site.Params.contact.email }}
                     <div class="text-center pt-3">
                         <a href="mailto:{{ .Site.Params.contact.email }}" class="btn">
-                            {{ .Site.Params.contact.btnName1 | default "Get in Touch" }}
-                        </a>
-                    </div>
-                    <div class="text-center pt-3">
-                        <a href="<div class="text-center pt-3">
-                        <a href="https://topmate.io/nikhita_kale" class="btn">
-                            {{ .Site.Params.contact.btnName2 | default "Get in Touch" }}
-                        </a>
-                    </div>" class="btn">
-                            {{ .Site.Params.contact.btnName1 | default "Get in Touch" }}
-                            {{ .Site.Params.contact.btnName2 | default "Get in Touch" }}
+                            {{ .Site.Params.contact.btnName | default "Get in Touch" }}
                         </a>
                     </div>
                     {{ end }}
