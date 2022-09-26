@@ -165,12 +165,6 @@ params:
           content: I worked as a Lead QA Engineer for more than two years, BA and Scrum Master for 6 months in Accion Labs.
         content: |
           A cloud engineering company providing solutions & services across th globe.
-          - Build the Test Automation team of 5 SDET & 30+ UAT testers across cross-functional projects.
-          - Bootstrapped the Production support team & ML testing using Airflow & tableau.
-          - Done ETL & Meta Data Testing.
-          - Introduced a framework for Proper Defect Tracking & release management from all sources.
-          - Streamlined the Release process with US clients with their in-house UAT team.
-
       - job: "Lead SDET"
         company: "HOUM"
         companyUrl: "https://houm.me/houm"
@@ -182,13 +176,6 @@ params:
           url: "https://houm.me/houm"
         content: |
           HOUM helps to build a few billion digital homes on the internet, owned by the respective owner and accessed only by them.
-
-          - Lead team of 2 SDETs.
-          - End to end Testing & Release management of product from 0 to 1 phase.
-          - Served as individual contributor of VM-Digital Home team as a Software Engineer in Test for security & Pen testing.
-          - Created a hybrid UI Automation framework from scratch which is used for cross-team UI Automation.
-          - Developed vertically scalable solutions for testing complex systems for different subscriptions of Digital home modules with CouchDB.
-
       - job: "Senior SDET"
         company: "Freight Tiger"
         companyUrl: "https://www.freighttiger.com/"
@@ -197,10 +184,7 @@ params:
           enable: false
           url: "https://www.freighttiger.com/"
         content: |
-          Freight Tiger helps to deliver freight on-time through end-to-end logistics visibility and a cloud based TMS, which together also power the largest Digital Freight Network in India.As a individual contributor, I was responsible for :
-
-          - Creating End to end automation framework for Android App.
-          - Creating GraphQL api framework & schema validator for third party Bulk APIs module.
+          Freight Tiger helps to deliver freight on-time through end-to-end logistics visibility and a cloud based TMS, which together also power the largest Digital Freight Network in India.
 
       - job: "Senior Application Test Engineer"
         company: "Elara Technologies Group"
@@ -215,12 +199,6 @@ params:
         content: |
           Elara Technologies is India’s first full stack real estate services company at scale with its child companies : PropTiger, Housing.com, IREF, Makaan.com, Realestate.com.au, Realtor.com and its global partner Mansionglobal.com.
           As a senior frontend Test engineer in a team of 12 QAs across these child-companies,I was responsible for :
-
-          - Creating Test plan & Automation framework in rSpec with ruby on rails for backend testing of Location Filter module.
-          - Creating E2E testing framework in WebDriverIO for Web & Mobile Apps.
-          - Creating API Automation framework using Postman,Newman & Jenkins with Upstream and Downstream projects.
-          - Creating Email templates for marketing team along with designers in RoR and LWC modals.
-
 
   # Education
   education:
